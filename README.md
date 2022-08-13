@@ -9,7 +9,7 @@
 • Applied Random-forest for better accuracy.
 
 • If you want to view the deployed model, click on the following link:<br />
-Deployed at: _https://used-car-price-pred.herokuapp.com/_
+Deployed at: _https://use-car-price-pred.herokuapp.com/_
 
 This is only for educational and project purpose... Cheers
 
